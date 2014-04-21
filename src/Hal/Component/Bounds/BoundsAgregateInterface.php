@@ -8,7 +8,6 @@
  */
 
 namespace Hal\Component\Bounds;
-use Hal\Component\Result\ResultCollection;
 
 /**
  * Bounds calculator
